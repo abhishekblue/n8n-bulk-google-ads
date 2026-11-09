@@ -1,0 +1,13 @@
+{
+	"node": "n8n-nodes-microsoft-ads",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing & Content"],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://learn.microsoft.com/en-us/advertising/campaign-management-service/campaign-management-service-reference"
+			}
+		]
+	}
+}

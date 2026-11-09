@@ -1,0 +1,11 @@
+{
+  "name": "bulk-rsa",
+  "version": "1.0.0",
+  "scripts": {},
+  "type": "module",
+  "private": "true",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.6.0",
+    "zod": "^4.6.7"
+  }
+}

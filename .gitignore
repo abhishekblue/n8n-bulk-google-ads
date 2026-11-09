@@ -1,2 +1,7 @@
 dist
 node_modules
+
+# local scripts with hardcoded OAuth secrets
+get-refresh-token.js
+get-microsoft-refresh-token.js
+test-token-refresh.js
