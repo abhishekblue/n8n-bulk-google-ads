@@ -1,9 +1,12 @@
 {
   "name": "bulk-rsa",
   "version": "1.0.0",
-  "scripts": {},
+  "private": true,
   "type": "module",
-  "private": "true",
+  "scripts": {
+    "group": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON run.ts --group-only",
+    "start": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON run.ts"
+  },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.6.0",
     "zod": "^4.6.7"
